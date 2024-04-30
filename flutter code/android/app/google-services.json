@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046818716675",
+    "project_id": "ecommerce-64b24",
+    "storage_bucket": "ecommerce-64b24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046818716675:android:9948c634cb72a98c12e236",
+        "android_client_info": {
+          "package_name": "com.example.shoppapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtZNDpw8Wv8ahZbPdbYX7nleqfolDbTpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
