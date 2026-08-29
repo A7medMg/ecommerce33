@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064799452256",
+    "project_id": "pettapp-87ba7",
+    "storage_bucket": "pettapp-87ba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064799452256:android:294fbe831c00c602d65705",
+        "android_client_info": {
+          "package_name": "com.example.shoppapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtBrCOqR8t0rHKfnRIz6A1ERJbHBgl_kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
